@@ -1,0 +1,9 @@
+name = "TDD_Template"
+uuid = "75fba810-f408-11e8-3284-17caed10910d"
+authors = ["julian"]
+description = "Template Project for test driven development"
+repository = "https://github.com/Atomtomate/TDD_Template"
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
